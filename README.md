@@ -1,4 +1,6 @@
-![Freelando](thumbnail.png)
+# Testes Avançados com Cypress
+
+O Bytebank é uma Start up fictícia utilizada nesse curso da Alura. A ideia principal desse curso é mostrar como escrever e melhorar os testes de ponta a ponta utilizando a ferramenta Cypress.
 
 # Bytebank
 
@@ -40,8 +42,3 @@ E muito mais!
 Para abrir e rodar o projeto, execute `npm install` para instalar as dependências e `npm start` para inicar a aplicação.
 
 Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
-
-## 📚 Mais informações do curso
-
-O Bytebank é uma Start up fictícia utilizada nesse curso da Alura.
-A ideia principal desse curso é mostrar como escrever e melhorar os testes de ponta a ponta utilizando a ferramenta Cypress.

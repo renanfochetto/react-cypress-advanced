@@ -1,8 +1,19 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> Testes Avançados com Cypress
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> React: Avançando em testes e2e com Cypress
 
-O Bytebank é uma Start up fictícia utilizada nesse curso da Alura. A ideia principal desse curso é mostrar como escrever e melhorar os testes de ponta a ponta utilizando a ferramenta Cypress.
+Desenvolvido durante o curso avançado de criação de testes end to end para React com Cypress, na Escola de Tecnologia Alura como parte da formação em React.
+
+## Principais Tópicos
+
+- `Boas práticas de organização e escrita de testes no Cypress`
+- `Compreender e realizar testes de API utilizando o Cypress`
+- `Realizar testes com dados dinâmicos`
+- `Escrever testes de jornada de usuários testando a integração de Front-end e Backend juntos`
+- `Entender como proteger dados sensíveis`
+- `Testar recursos em diferentes tamanhos de tela`
 
 ## Bytebank
+
+O Bytebank é uma Start up fictícia utilizada nesse curso da Alura. A ideia principal desse curso é mostrar como escrever e melhorar os testes de ponta a ponta utilizando a ferramenta Cypress.
 
 O Bytebank é uma start up de banco digital criada para desenvolvedores e desenvolvedoras. Atualmente está na fase de desenvolvimento e conforme novas funcionalidades são adicionadas novos testes precisam ser feitos, por isso iremos escrever e melhores os testes de ponta a ponta existente na aplicação utilizando o Cypress.
 
